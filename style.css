@@ -1,0 +1,99 @@
+.butt{
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    margin: 5px;
+    align-items: flex-end;
+    width: 120px;
+    height: 35px;
+}
+.butt1{
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    margin: 5px;
+    align-items: flex-end;
+    width: 200px;
+    height: 35px;
+}
+.yellow{
+    text-align: right;
+    padding-right: 150px;
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.container{
+    width: 900px;
+    height: 520px;
+    box-shadow: .005px .005px 10px;
+    padding: 0;
+}
+
+#leftbox {
+    padding: 0;
+    float:left; 
+    width:80%;
+    height:100px;
+}
+#middlebox{ 
+    margin-left: 40px;
+    width:80%;
+    height:100px;
+}
+#rightbox{
+    float:right;
+    margin-right: 120px;
+    width:25%;
+    height:100px;
+}
+
+.col {
+    padding: 0;
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+}
+.crou{
+    float: left;
+    padding: 0;
+    margin: 0;
+    width: 600px;
+}
+
+.news{
+    background-image: url("https://jecrcfoundation.com/assets/img/1.jpg") ;
+    padding: 0;
+    width: 480px;
+    height: 410px;
+}
+
+.marq{
+    margin-left: 40px;
+}
+
+.hedd{
+    padding-top: 10px;
+    margin-left: 40px;
+    color: white;
+}
+
+.fon{
+    border-bottom: dotted white;
+    color: white;
+}
+
+.btnend{
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: green;
+    border: none;
+    width: 90px;
+    height: 40px;
+    color: white;
+}
+
+.fonn{
+    color: white;
+}
